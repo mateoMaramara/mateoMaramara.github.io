@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://cdn.apollohospitals.com/health-library-prod/2021/06/shutterstock_1236631984-scaled.jpg
+image: img/heart.jpg
 title: "heartRateCalculator"
 date: 2024
 published: true

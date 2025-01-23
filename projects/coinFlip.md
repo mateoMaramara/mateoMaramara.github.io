@@ -4,7 +4,7 @@ type: project
 image: img/coin.webp
 title: "spamMusubi"
 date: 2024
-published: true
+published: false
 labels:
   - C
 summary: "This is a program in C I made while taking ICS 212 that simulates a coin flip"

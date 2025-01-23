@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/heart.jpg
+image: img/musubi.jpeg
 title: "spamMusubi"
 date: 2024
 published: true

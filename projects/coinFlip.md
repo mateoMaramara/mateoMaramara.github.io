@@ -2,9 +2,9 @@
 layout: project
 type: project
 image: img/coin.webp
-title: "spamMusubi"
+title: "coinFlip"
 date: 2024
-published: false
+published: true
 labels:
   - C
 summary: "This is a program in C I made while taking ICS 212 that simulates a coin flip"

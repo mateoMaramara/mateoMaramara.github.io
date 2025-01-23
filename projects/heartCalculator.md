@@ -63,11 +63,11 @@ int main() {
 
   return 0;
 }
-program: heartCalculator.o getdouble.o
-	gcc heartCalculator.o getdouble.o -o program -lm
+program: heartRateCalculator.o getdouble.o
+	gcc heartRateCalculator.o getdouble.o -o program -lm
 
-heartCalculator.o: heartCalculator.c getdouble.h
-	gcc -c heartCalculator.c
+heartRateCalculator.o: heartRateCalculator.c getdouble.h
+	gcc -c heartRateCalculator.c
 
 getdouble.o: getdouble.c getdouble.h
 	gcc -c getdouble.c

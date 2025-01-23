@@ -1,39 +1,74 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+image: https://cdn.apollohospitals.com/health-library-prod/2021/06/shutterstock_1236631984-scaled.jpg
+title: "heartRateCalculator"
+date: 2024
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - C
+summary: "This is a program in C I made while taking ICS 212 that will calculate a persons target heart rate based off of their age."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+/**
+ * This program will calculate a persons target heart rate based off of their
+ * age. The required user input will be the users birth year and the current 
+ * year. The expected output should be the users age, maximum heart rate, and 
+ * target heart rate.
+ */
+#include <stdio.h>
+#include "getdouble.h"
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+//Symbolic constant for the maximum heart rate
+#define MAX_HEART_RATE 220
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+int main() {
 
-Here is some code that illustrates how we read values from the line sensors:
+  //Informs the user what the program will do
+  puts("This program will calculate your target heart-rate for exercising. ");
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+  //Declare variable
+  int birthYear;
+  //Get users input for birth year
+  printf("Please enter the year you were born: ");
+  birthYear =(int)getdouble();
+
+  //Declare variable
+  int currentYear;
+  //Get users input for current year
+  printf("Please enter the current year: ");
+  currentYear =(int)getdouble();
+
+  //Declare variable
+  int age;
+  //Apply age formula to get users age
+  age = currentYear - birthYear;
+
+  //Declare variable
+  int maxHeartRate;
+  //Apply maximum heart rate formula to get the users maximum heart rate
+  maxHeartRate = MAX_HEART_RATE - age;
+
+  //Declare variable
+  int lowerTarget;
+  int upperTarget;
+  //Apply maximum heart rate formula to get users maximum heart rate
+  lowerTarget =(int)(maxHeartRate * 0.50);
+  upperTarget =(int)(maxHeartRate * 0.85);
+  
+  //Output of age, max heart rate, and target heart rate
+  printf("Your age is: %i\n", age);
+  printf("Your maximum heart-rate is: %i\n", maxHeartRate);
+  printf("Your target heart-rate is between %i and %i beats per minute.\n", lowerTarget, upperTarget);
+
+  return 0;
 }
-```
+program: heartCalculator.o getdouble.o
+	gcc heartCalculator.o getdouble.o -o program -lm
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+heartCalculator.o: heartCalculator.c getdouble.h
+	gcc -c heartCalculator.c
+
+getdouble.o: getdouble.c getdouble.h
+	gcc -c getdouble.c
+

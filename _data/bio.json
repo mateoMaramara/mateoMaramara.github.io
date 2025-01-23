@@ -18,19 +18,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "McAfee EPO", "McAfee HBSS", "Forefront TMG" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-08-22",
       "endDate": "Present",
       "courses": [
       ]
@@ -38,69 +38,44 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "U.S. Navy",
+      "position": "Informations Systems Technician/Second Class Petty Officer",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2017",
+      "endDate": "2022",
+      "summary": "System Administrator and Communications Operator",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Installation, maintenence, and technical support for a network of more than 300 users",
+        "Implemented security protocols and maintained technical documentation to ensure mission readiness"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Collegiate Cyber Defence Competition",
+      "website": "http://acmmanoa.org/",
+      "position": "Security",
+      "startDate": "2023-02-19",
+      "endDate": "2022-02-19",
+      "summary": "Collaberated with UH Manoa's 2023 as a competitor in the Collegiate Cyber Defence Competition",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Collaberate with team members to identify vulnerabilities and mitigate threats",
+        "Practiced cybersecurity in real time against simulated threats"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Navy and Marine Corps Achievement Medal",
+      "date": "2022",
+      "awarder": "United States Navy",
+      "summary": "Awarded for exceptional performance as an Information Systems Technician, demonstrating outstanding leadership, technical expertise, and dedication to mission success while maintaining the highest standards of professionalism and excellence."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Joint Service Commendation Medal",
+      "date": "2018",
+      "awarder": "United States Department of Defense",
+      "summary": "Awarded for meritorious service and exceptional achievement while serving in a joint military operation, demonstrating outstanding leadership, technical expertise, and commitment to mission objectives in a high-stakes environment."
     }
   ],
   "references": [

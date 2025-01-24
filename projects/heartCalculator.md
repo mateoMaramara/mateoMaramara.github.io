@@ -27,4 +27,4 @@ Your target heart rate range is: 96 bpm to 163 bpm
 
 ---
 
-Link to repository: https://github.com/mateoMaramara/heartRateCalculator 
+Link to repository: github.com/mateoMaramara/heartRateCalculator.

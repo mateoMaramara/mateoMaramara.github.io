@@ -9,6 +9,7 @@ labels:
   - C
 summary: "This is a program in C I made while taking ICS 212 that will calculate a persons target heart rate based off of their age."
 ---
+<img width="600px" class="rounded float-start pe-4" src="../img/heart.jpg">
 
 The “Heart Rate Calculator” is a program I made while taking ICS 212. It asks for the users “birth year” and “current year”, then determines their age. Based on their age, it calculates the “target heart rate” for workouts. It does so by first subtracting the birth year from the current year and stores it in the “age” object. To calculate the “Maximum heart rate” it subtracts the age from 220 and uses this number to calculate the “Target heart rate”. The target heart rate is calculated as 50% to 85% of the maximum heart rate. With the user input as their birth year and the current year, the output should look like the example below. 
 	

@@ -9,6 +9,7 @@ labels:
   - C
 summary: "This is a program in C I made that will algorithmically print my favorite food."
 ---
+<img width="600px" class="rounded float-start pe-4" src="../img/musubi.jpeg">
 
 This is a program in C I made during my ICS 212 class. The purpose of the assignment was to generally practice programming concepts like for loops, while loops, and conditional statements. The program is supposed to print numbers from one to one hundred, with the caveat that specific numbers would be replaced with a string of my favorite food, spam musubi. All of the numbers divisible by 3 print “Spam”, all the numbers divisible by 7 print “Musubi”, and all of the numbers divisible by 7 and 3 print “SpamMusubi”. 
 

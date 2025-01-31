@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "There’s No Such Thing as a Stupid Question… Or is there?"
+title: "There’s No Such Thing as a Stupid Question"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
 published: true
@@ -9,9 +9,6 @@ labels:
   - TypeScript
 ---
 <img width="400px" class="rounded float-start pe-4" src="../img/mark.png">
-
-
-
 It is no secret that software engineering requires consistent research. As technology evolves engineers must find a way to adapt. In “How To Ask Questions The Smart Way”, Eric Raymond makes a point that the way we ask a question often determines the kind of answer we get. The essay discusses the importance of individual research, clear communication, and gives insight on the components of a question that may get a positive and useful response, and alternatively, things that comprise a “Not Smart” question. This technical essay will cover some of the different ways people ask questions by analyzing two Stack Overflow questions I found.
 
 ## What is a “Not-So-Smart” Question?

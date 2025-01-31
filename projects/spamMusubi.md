@@ -219,5 +219,5 @@ Spam
 100
 
 —
-URL to repository: http://github.com/mateoMaramara/spamMusubi
+[URL to repository](http://github.com/mateoMaramara/spamMusubi)
 

@@ -11,6 +11,7 @@ labels:
 
 <img width="1200px" class="rounded float-start pe-4" src="../img/question.jpeg">
 ---
+---
 
 It is no secret that software engineering requires consistent research. As technology evolves engineers must find a way to adapt. In “How To Ask Questions The Smart Way”, Eric Raymond makes a point that the way we ask a question often determines the kind of answer we get. The essay discusses the importance of individual research, clear communication, and gives insight on the components of a question that may get a positive and useful response, and alternatively, things that comprise a “Not Smart” question. This technical essay will cover some of the different ways people ask questions by analyzing two Stack Overflow questions I found.
 ---

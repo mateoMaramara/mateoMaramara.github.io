@@ -8,7 +8,7 @@ published: true
 labels:
   - Software
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/deployment.webp">
+<img width="300px" class="rounded float-start pe-4" src="../img/deployment.webp">
 
 Growing up I spent much of my time outdoors where I was far removed from the world of technology I live in today. It wasn’t until my time in the Navy where I was introduced to the field of Information Technology. As an Information Systems Technician Second Class(IT2), I learned skills such as system administration, communications and cybersecurity. This exposure to the intricacies of the technology sector gave me an appreciation for all of the different ways IT infrastructure is interwoven with our daily lives and eventually led me to pursue a career in software engineering.
 

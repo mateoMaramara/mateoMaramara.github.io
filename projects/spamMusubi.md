@@ -9,7 +9,7 @@ labels:
   - C
 summary: "This is a program in C I made that will algorithmically print my favorite food."
 ---
-
+<img width="600px" class="rounded float-start pe-4" src="../img/musubi.jpeg">
 This is a program in C I made during my ICS 212 class. The purpose of the assignment was to generally practice programming concepts like for loops, while loops, and conditional statements. The program is supposed to print numbers from one to one hundred, with the caveat that specific numbers would be replaced with a string of my favorite food, spam musubi. All of the numbers divisible by 3 print “Spam”, all the numbers divisible by 7 print “Musubi”, and all of the numbers divisible by 7 and 3 print “SpamMusubi”. 
 
 One key concept that this assignment was good practice for was the and, and or operators. Prior to this assignment I had a strong fundamental knowledge of for and while loops, but this project really solidified the and, and or operators into my memory. This project was also fun because I got to personalize it to my favorite food. To me, it is a good example of how programming does not always have to be serious, and it can be used to practice career skills and have fun while doing so. The expected output can be seen below, and the URL to the program can be seen below.

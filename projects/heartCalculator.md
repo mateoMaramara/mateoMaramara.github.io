@@ -27,5 +27,4 @@ Your maximum heart rate is: 192 bpm
 Your target heart rate range is: 96 bpm to 163 bpm  
 
 ---
-
-URL to repository: http://github.com/mateoMaramara/heartRateCalculator
+[URL to repository](http://github.com/mateoMaramara/heartRateCalculator)

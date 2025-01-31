@@ -218,6 +218,6 @@ Spam
 
 100
 
-—
-[URL to repository](http://github.com/mateoMaramara/spamMusubi)
+---
+[Link to Repository](http://github.com/mateoMaramara/spamMusubi)
 

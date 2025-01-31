@@ -17,4 +17,4 @@ The site includes a section called “The Four Pillars of a Healthy Diet”, whi
 
 ---
 
-<a href="http://github.com/mateoMaramara/spamMusubi">Kapuna link</a>
+<a href="https://sites.google.com/hawaii.edu/mateo-maramara/home">Kapuna link</a>

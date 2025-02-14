@@ -1,0 +1,22 @@
+---
+layout: essay
+type: essay
+title: "Beauty is Only Application Layer Deep"
+# All dates must be YYYY-MM-DD format!
+date: 2025-02-13
+published: true
+labels:
+  - TypeScript
+---
+<img width="400px" class="rounded float-start pe-4" src="../img/vs.png">
+While doing this week's practice WOD I came across a few errors that actually highlight the importance of having a coding standard. Despite the “minutae” of how many spaces to indent or in my case the error “no-trailing-spaces”; fixing these ostensibly superficial errors have a subtle impact on the quality of my code by making it more readable and preventing bugs before they become a problem. Initially, some of these errors may seem like they serve no real purpose other than making my code “look pretty”, but I think the importance of coding standards extend beyond readability and aesthetics.
+
+## It all adds up
+My professor once said, if he could implement one software engineering technique to improve quality, it would be coding standards because they can actually help you learn a programming language. I was initially suspicious that he was saying this because he is, after all, the person reading and grading all of our coding assignments. However, after some thought, using tools like ESLint with VSCode have actually pointed out errors that shifted my perspective about my code that would have otherwise run with my expected output. In a 20 minute project, the amount of systems that must be put into place are minimal so I only needed 3 functions and 3 output lines. “If my code runs fine, then why should I fix it?”, is a valid question in this context since these WODs are graded and timed coding exercises. As the clock is usually my enemy, I prioritized speed, not really paying too much attention to the small things, like a space before the curly brace or a trailing space after the last line of my code. But in the silent chaos of me trying to make sure my numbers to strings function was syntactically correct, I found an error that pointed out an inefficiency in my code. As an aspiring software engineer, I have to be cautious of any inefficiencies, as many great software engineers before myself have pointed out that a single operation may seem insignificant until it is performed a thousand times. In short, the small things always matter. Or as my grandmother would tell me when it came to picking pennies up off the floor, “One hundred of those makes a dollar”.
+
+## My Experience with ESLint and VSCode
+One of the errors I got was to change my array declaration from let to const. While this was a single page of code and there were no plans of extending it, my thought was “Why does it matter if my output is exactly as expected?”. It matters because my array would never be reassigned. This is a very basic concept that needs to be implemented  whenever possible to prevent any future “accidents” or changes, and in turn could result in an error.
+
+## Why coding standards are important
+Outside of my computer sciences classes I work as a tutor in the UH Manoa Writing Center. We often use the phrase “Process vs. Product” as a way to highlight the importance of learning the process of writing and not being so caught up in the validation of completing an assignment before moving on to the next one. I think, albeit in different words, my professor meant something similar when talking about coding standards. Coding standards are important because they are put into place for a reason. Understanding the reasons why these errors occur teaches us the “processes” of software engineering, and makes us better software engineers as a result. Conversely, everytime we place all of our focus on the “products” like turning in code that gives the expected output, we miss out on learning opportunities that could provide a greater depth of understanding of that language or of software development in total.
+

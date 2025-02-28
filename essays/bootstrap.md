@@ -20,10 +20,10 @@ The screenshots below are of the JIF peanut butter website. The one above is the
 <div class="container text-center">
     <div class="row justify-content-center">
         <div class="col-md-6">
-            <img width="100%" class="rounded" src="../img/jifhomepage.png" alt="Original JIF Homepage">
+            <img width="100%" class="rounded" src="../img/jifs.png">
         </div>
         <div class="col-md-6">
-            <img width="100%" class="rounded" src="../img/remodel.png" alt="Bootstrap JIF Remake">
+            <img width="100%" class="rounded" src="../img/mine.png">
         </div>
     </div>
 </div>

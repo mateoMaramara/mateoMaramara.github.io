@@ -16,6 +16,7 @@ Despite the daunting idea of learning to use a development tool that may provide
 
 ## My Experience
 The screenshots below are of the JIF peanut butter website. The one above is the original website, and the one below is my recreation of it using Bootstrap-5. With no CSS, the websites look pretty similar, and took me no more than 10 minutes to recreate.
+
 <img width="400px" class="rounded float-start pe-4" src="../img/jifhomepage.png">
 <img width="400px" class="rounded float-start pe-4" src="../img/remodel.png">
 

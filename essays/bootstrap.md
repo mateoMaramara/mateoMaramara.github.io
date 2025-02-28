@@ -23,7 +23,7 @@ The screenshots below are of the JIF peanut butter website. The one on the left 
             <img width="100%" class="rounded" src="../img/jifs.png">
         </div>
         <div class="col-md-6">
-            <img width="100%" class="rounded" src="../img/mine.png">
+            <img width="110%" class="rounded" src="../img/mine.png">
         </div>
     </div>
 </div>

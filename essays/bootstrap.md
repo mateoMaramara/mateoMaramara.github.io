@@ -15,7 +15,7 @@ As Software Engineers, we often aspire to make user friendly, beautifully-design
 Despite the daunting idea of learning to use a development tool that may provide fewer benefits than it is worth, Bootstrap’s classes and different components have truly increased the speed and efficiency of my web development. The UI framework has saved me a lot of time when putting together simple web pages, and in my opinion they look just as good, if not better than it would have been grinding out raw HTML and CSS. A tool I found particularly useful was Bootstrap’s navbar components. I have used it for several web pages in the last week and each time it took less than a few minutes to implement. Another tool I found beneficial was Bootstrap’s flex utilities. This was especially helpful for my web pages that often needed a centered photo for the background. I did not need any CSS, and it really was as easy as applying the Bootstrap classes.
 
 ## My Experience
-The screenshots below are of the JIF peanut butter website. The one above is the original website, and the one below is my recreation of it using Bootstrap-5. With no CSS, the websites look pretty similar, and took me no more than 10 minutes to recreate.
+The screenshots below are of the JIF peanut butter website. The one on the left is the original website, and the one on the right is my recreation of it using Bootstrap-5. With no CSS, the websites look pretty similar, and took me no more than 10 minutes to recreate.
 
 <div class="container text-center">
     <div class="row justify-content-center">

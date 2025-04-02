@@ -38,7 +38,8 @@ The personalization engine is the "special sauce" — no two users see the same 
 ## Proposers
 This idea was collaboratively developed by:
 - Mateo Maramara, Computer Science
-- [Co-founder Name], Educational Psychology / Student Life
+- Michael Peterson, Computer Science
+- Laurent Keith Villanueva, Computer Science
 
 ## Mockup Pages
 - **Landing Page** – Welcome message, how it works, UH email login

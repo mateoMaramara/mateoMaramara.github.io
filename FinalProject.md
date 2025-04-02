@@ -48,5 +48,3 @@ This project idea was collaboratively written by:
 
 ---
 
-Feel free to tweak the idea based on your group's interests! Want help coming up with a different app idea or writing your own draft?
-

@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: "Final Project Idea"
 date: 2025-04-01
+published: true
 labels:
   - Software Engineering
   - Nextjs
@@ -10,55 +11,42 @@ labels:
 
 ## Overview
 
-### The Problem:
-At UH Mānoa, many students feel disconnected from campus life and don’t know how to get involved in extracurriculars. While there are over 200 Registered Independent Organizations (RIOs), participation is low, especially among new and transfer students. Existing tools like club lists or newsletters are fragmented, outdated, or hard to navigate.
+### The Problem
+Many UH Mānoa students struggle to find peer study groups that match their course schedules, academic goals, and communication preferences. While platforms like Discord and GroupMe exist, they are often unorganized, hard to join, and not specific to UH courses or local campus life.
 
-### The Solution:
-**CampusConnect** is a personalized digital platform that helps UH Mānoa students discover clubs, events, and academic support tailored to their interests. After logging in with a UH email and completing a short onboarding quiz, users receive a custom engagement feed showing upcoming events, relevant student orgs, and support services (like the Writing Center or Learning Emporium). Organizations can manage content through a dedicated admin portal.
+### The Solution
+We propose **StudyBuddy UH**, a web application where students can:
+- Register and log in to create a profile with their enrolled courses and availability
+- Be matched with other students based on shared classes, study preferences (online vs. in-person), and compatible schedules
+- Create or join course-specific study groups with built-in tools (e.g., polls, calendar sync, chatrooms)
+- View recommended campus study spots and peer-rated group dynamics
 
-This platform combines personalized recommendation logic, modern UI/UX, and campus-focused features to strengthen student belonging and community engagement.
+Each user has a **customized dashboard** based on their classes and preferences — this is our "special sauce".
 
-## Approach
+## Team Members
+This project idea was collaboratively written by:
+- Mateo Maramara, Computer Science(BS)
+- Michael Peterson, Computer Science(BS)
+- Laurent Keith Villanueva, Computer Science(BS)
 
-CampusConnect includes multiple user roles:
-- **Students** log in with a UH email and receive a personalized dashboard based on their major and interests.
-- **Organization Reps (6 per org)** can log in and manage announcements, events, and posts.
-- **Super Admins** moderate content, approve new clubs, and assist with onboarding new orgs.
-
-### Key Functional Pages:
-- **Landing Page**: Overview of CampusConnect + login
-- **Quiz Page**: Choose majors, interests, and preferred engagement types (academic/social/etc.)
-- **Home Dashboard ("For You")**: Personalized feed of events, posts, and opportunities
-- **Explore Tab**: Browse/search organizations by tags (e.g., “STEM,” “Social Impact,” “Athletics”)
-- **Admin Portal**: Club accounts can manage posts and view engagement stats
-
-## Special Sauce
-The personalization engine is the "special sauce" — no two users see the same dashboard. Feed content is generated based on quiz answers and user behavior. Organizations also get feedback on which demographics are interacting with their content, helping them better target and connect with students.
-
-## Proposers
-This idea was collaboratively developed by:
-- Mateo Maramara, Computer Science
-- Michael Peterson, Computer Science
-- Laurent Keith Villanueva, Computer Science
-
-## Mockup Pages
-- **Landing Page** – Welcome message, how it works, UH email login
-- **Quiz Page** – Majors, interests, engagement types
-- **Dashboard Page** – Personalized feed ("For You")
-- **Explore Page** – Browse/search orgs and events
-- **Org Admin Page** – Create/manage posts, view engagement
-- **Need Help? Page** – Quick access to campus services (Writing Center, Learning Emporium, etc.)
+## Mockup Page Ideas
+- **Landing Page**: Intro to app with login/register options
+- **Dashboard**: Personalized with your courses, suggested study groups, and calendar
+- **Study Group Page**: Group info, members, upcoming sessions, group chat
+- **Settings/Profile**: Adjust your study preferences, schedule, and notifications
 
 ## Use Case Ideas
-- **Keoni**, a first-year Biology student, takes the quiz and gets matched with 5 clubs, including a hiking club and pre-health org.
-- **Sarah**, an English major with an interest in Filipino culture, finds a student org that she wouldn’t have discovered otherwise.
-- **Justin**, a club officer, logs in to schedule a post and upload a flyer for an upcoming social event.
-- **Transfer student** Hana checks her dashboard and finds academic support resources she didn’t know existed.
+1. **Lisa**, a freshman taking ICS 111, logs in and sees 3 potential study groups matching her schedule.
+2. **David** prefers in-person meetups. He filters for groups that study at Hamilton Library and gets matched.
+3. **Emily** creates a new study group for Math 241 and invites others via class codes or links.
 
 ## Beyond the Basics
-- **Real-time event reminders and RSVP integration**
-- **Analytics dashboard** for organizations
-- **Badging system** for highly involved students
-- **Potential API integration** with UH systems (STAR, campus calendar)
-- **Expansion-ready** architecture to support other campuses
+- Google Calendar integration
+- Chat powered by Firebase or a lightweight solution
+- Study spot suggestions based on user ratings (e.g., "Quiet but has good coffee")
+- Gamification: Earn badges for participation, punctuality, or group leadership
+
+---
+
+Feel free to tweak the idea based on your group's interests! Want help coming up with a different app idea or writing your own draft?
 

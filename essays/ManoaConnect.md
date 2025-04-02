@@ -38,8 +38,7 @@ The personalization engine is the "special sauce" — no two users see the same 
 ## Proposers
 This idea was collaboratively developed by:
 - Mateo Maramara, Computer Science
-- Michael Peterson, Computer Science
-- Laurent Keith Villanueva, Comoputer Science
+- [Co-founder Name], Educational Psychology / Student Life
 
 ## Mockup Pages
 - **Landing Page** – Welcome message, how it works, UH email login
@@ -61,5 +60,4 @@ This idea was collaboratively developed by:
 - **Badging system** for highly involved students
 - **Potential API integration** with UH systems (STAR, campus calendar)
 - **Expansion-ready** architecture to support other campuses
-
 

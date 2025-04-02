@@ -9,7 +9,6 @@ labels:
   - Software Engineering
   - Nextjs
 ---
-<img width="400px" class="rounded float-start pe-4" src="../img/vs.png">
 ## Overview
 
 ### The problem:
@@ -17,6 +16,8 @@ UH Mānoa students often struggle to find quiet, available, or well-equipped pla
 
 ### The solution:
 **StudySpace UH** is a crowdsourced study spot finder designed for the UH Mānoa campus. Students can log in and view a live map of study locations, updated with user-submitted conditions like noise level, crowd density, outlet availability, and Wi-Fi reliability. Users can submit quick feedback about where they’re studying, helping others find ideal spots in real time. Users can also save their favorite spots and get personalized suggestions based on time of day, past preferences, and proximity.
+
+<img width="400px" class="rounded float-start pe-4" src="../img/study.jpeg">
 
 ## Approach
 

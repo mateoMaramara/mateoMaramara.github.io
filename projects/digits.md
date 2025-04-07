@@ -12,11 +12,8 @@ labels:
 summary: "Digits is a web application that allows users to manage their personal contacts and attach notes to them. Built with Next.js, Prisma, and PostgreSQL."
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/DIGIT1.PNG">
-<img width="600px" class="rounded float-start pe-4" src="../img/DIGIT2.PNG">
-<img width="600px" class="rounded float-start pe-4" src="../img/DIGIT3.PNG">
-<img width="600px" class="rounded float-start pe-4" src="../img/DIGIT4.PNG">
-<img width="600px" class="rounded float-start pe-4" src="../img/DIGIT5.PNG">
+<img width="400px" class="rounded float-start pe-4" src="../img/DIGIT1.PNG">
+
 
 **Digits** is a contacts and notes management application I built as part of the ICS 314 course at the University of Hawaiʻi. Users can log in securely, add new contacts with information such as name, address, image, and description, and attach notes to each contact to track interactions or personal reminders.
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/landing.png
+image: img/contact.jpeg
 title: "Digits"
 date: 2025
 published: true

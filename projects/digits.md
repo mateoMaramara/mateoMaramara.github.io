@@ -1,5 +1,6 @@
 **Digits** is a contacts and notes management application I built as part of the ICS 314 course at the University of Hawaiʻi. Users can log in securely, add new contacts with details like name, address, image, and description, and attach notes to each contact to track interactions or personal reminders.
 <img width="600px" class="rounded d-block mx-auto my-4" src="../doc/Landing.png">
+<img src="doc/Landing.png">
 
 Each user can only see and manage their own contacts and notes, while administrators can view all users and their contacts. The app uses modern technologies including **Next.js**, **Prisma ORM**, **PostgreSQL**, and **TypeScript** to ensure scalable, maintainable, and performant development.
 

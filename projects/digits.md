@@ -22,23 +22,23 @@ Each user can only see and manage their own contacts and notes, while administra
 
 **Home Page:**
 
-<img width="400px" class="rounded float-start pe-4" src="img/DIGIT1.PNG">
+<img width="400px" class="rounded float-start pe-4" src="img/DIGIT1.png">
 
 **Add Contact Page:**
 
-<img width="400px" class="rounded float-start pe-4" src="img/DIGIT2.PNG">
+<img width="400px" class="rounded float-start pe-4" src="img/DIGIT2.png">
 
 **List Contact Page:**
 
-<img width="400px" class="rounded float-start pe-4" src="img/DIGIT3.PNG">
+<img width="400px" class="rounded float-start pe-4" src="img/DIGIT3.png">
 
 **Add Note on Contact:**
 
-<img width="400px" class="rounded float-start pe-4" src="img/DIGIT4.PNG">
+<img width="400px" class="rounded float-start pe-4" src="img/DIGIT4.png">
 
 **List Contact Page (with Notes):**
 
-<img width="400px" class="rounded float-start pe-4" src="img/DIGIT5.PNG">
+<img width="400px" class="rounded float-start pe-4" src="img/DIGIT5.png">
 
 ---
 

@@ -4,7 +4,7 @@ type: project
 image: img/contact.jpeg
 title: "digits"
 date: 2024
-published: true
+published: false
 labels:
   - Next.js
   - TypeScript

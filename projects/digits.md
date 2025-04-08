@@ -39,7 +39,7 @@ Then open your browser to [http://localhost:3000](http://localhost:3000).
 
 #### Landing Page
 
-<img width="600px" class="rounded d-block mx-auto my-4" src="../doc/Landing.png">
+<img width="600px" class="rounded d-block mx-auto my-4" src="/doc/Landing.png">
 
 When you visit the app, the landing page welcomes you with an interface and a prompts you to log in or register.
 

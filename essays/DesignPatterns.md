@@ -9,7 +9,7 @@ labels:
   - Design
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/design.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/design.png">
 
 Design patterns can help software engineers write scalable code that is easy to maintain, understand, and implement. But, what are design patterns really? Well, as a certified “gym rat”, I like to look at them the same way I see my training regimen; systematic, but flexible. I want my design patterns to work just like my workouts; targeting specific goals, efficient, and always built for growth.
 

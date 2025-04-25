@@ -4,7 +4,7 @@ type: essay
 title: "Design Patterns and Deadlifts"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-23
-published: false
+published: true
 labels:
   - Design
 ---
@@ -17,6 +17,6 @@ As it is typical for most gym goers, I have a plan of execution before entering 
 
 With ManoaConnect, we didn’t start from scratch because we had our instructors template. But on the other hand, my group still had a lot to figure out. The most difficult, was deciding as a group how we wanted to organize our code, and build features. In my opinion, this was where design patterns were most effective. Before implementing any code, we looked at the problems we wanted to solve, and used design patterns to guide us. In a way, it is just like having a workout plan, we had an idea of what we wanted to do, and clear objectives, then we stayed flexible as things changed.
 
-Ultimately, design patterns are not a set of rules mandatory for design success, they just make the process more efficient. In my opinion, they make prevalent tasks easier to accomplish. Just like workout routines, having a plan, and using tested methods makes it easier to be consistent and get the ideal results. With ManoaConnect, design patterns helped us structure our work. More importantly, because of design patterns we were able to stay organized, write better code, and focus on building the features we wanted. While there are endless design features to implement,
+Ultimately, design patterns are not a set of rules mandatory for design success, they just make the process more efficient. In my opinion, they make prevalent tasks easier to accomplish. Just like workout routines, having a plan, and using tested methods makes it easier to be consistent and get the ideal results. With ManoaConnect, design patterns helped us structure our work. More importantly, because of design patterns we were able to stay organized, write better code, and focus on building the features we wanted. While there are endless design features to implement, they all have their place in making tasks more efficient, managable, and scalable. So whether you are pushing weight or pushing code, a purposeful routine can make all the difference.
 
 

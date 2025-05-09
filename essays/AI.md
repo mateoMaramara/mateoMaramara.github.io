@@ -6,15 +6,16 @@ title: "Artificial Code"
 date: 2025-04-23
 published: false
 labels:
-  - Design
+  - AI
+  - ChatGPT
 ---
 
 <img width="500px" class="rounded float-start pe-4" src="../img/robot.webp">
 
-I. Introduction
+## Introduction
 Artificial Intelligence (AI) is one of the most transformative tools in software engineering today. In education, it plays a growing role—from correcting syntax and suggesting completions to explaining abstract concepts in natural language. In ICS 314: Software Engineering, I used AI tools like ChatGPT and GitHub Copilot extensively. Whether I was working with TypeScript, React, Next.js, or Prisma, these tools provided support in understanding, debugging, and writing code. Rather than relying on AI for shortcuts, I treated these tools as scaffolding for deeper learning and mastery.
 
-II. Personal Experience with AI
+## Personal Experience with AI
 1. Experience WODs (e.g., E18)
 For Experience WODs that lacked video solutions—or when walkthroughs didn’t match my specific implementation—I often turned to ChatGPT. One example was during a WOD involving sorting posts by creation date in a Prisma query. I encountered the error:
 “Object literal may only specify known properties, and 'createdAt' does not exist in type 'PostOrderByWithRelationInput'”
@@ -97,26 +98,26 @@ While building the explore page, I asked:
 
 
 
-III. Impact on Learning and Understanding
+## Impact on Learning and Understanding
 AI tools helped accelerate my learning, especially when documentation was unclear or when I didn’t know what keyword to Google. Instead of copying code, I learned to ask “why” something worked. ChatGPT helped me understand Prisma query patterns, React lifecycle behavior, and TypeScript typing strategies that weren’t obvious in the docs. This made me a more independent and confident developer.
 
-IV. Practical Applications
+## Practical Applications
 Outside of ICS 314, I used ChatGPT for job interview prep and GitHub Copilot while working on side projects. One prompt I used was:
 “Create a mock API route that returns user data in Next.js.”
  This gave me a template I could adapt and understand. AI also helped me debug Vercel deployment issues related to Prisma migrations by suggesting correct CLI flags and environment variable setups. These real-world uses validated the course content and reinforced what I was learning.
 
-V. Challenges and Opportunities
+## Challenges and Opportunities
 The biggest challenge was resisting the urge to overuse AI. At times, it was tempting to paste in the prompt and let Copilot write the entire function. But I realized that when I took the time to write code myself—even if it was slower—I remembered it better. A future opportunity is integrating AI literacy into the curriculum: teaching students not just how to code, but how to critically evaluate AI-generated code.
 
-VI. Comparative Analysis
+## Comparative Analysis
 Traditional methods like reading documentation and reviewing lecture slides helped me build deep, foundational knowledge. But AI added speed, flexibility, and a low-pressure environment for asking “dumb” questions. Combining the two—traditional teaching and AI-enhanced tools—offered the best of both worlds: deep learning with real-time feedback.
 
-VII. Future Considerations
+## Future Considerations
 As AI tools improve, their role in software engineering education will grow. But we need to teach ethical use, critical thinking, and prompt engineering alongside syntax and frameworks. AI should be positioned as a learning companion—not a crutch or a threat. Educators can also use AI to generate examples, design auto-feedback tools, and simulate code review sessions for students.
 
-VIII. Conclusion
+## Conclusion
 My experience in ICS 314 would have been very different without AI tools like ChatGPT and GitHub Copilot. These tools helped me understand code, debug faster, and practice independently. More importantly, they helped me grow as a learner. I wasn’t just solving problems—I was learning how to learn. My recommendation for future courses is to embrace AI, teach it responsibly, and empower students to use it not to replace thinking—but to enhance it.
 
-Let me know if you'd like this exported to PDF, DOCX, or formatted for a portfolio page.
+
 
 

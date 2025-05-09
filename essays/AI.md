@@ -4,7 +4,7 @@ type: essay
 title: "Artificial Code"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-23
-published: true
+published: false
 labels:
   - Design
 ---

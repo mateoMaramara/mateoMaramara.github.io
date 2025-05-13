@@ -12,6 +12,8 @@ labels:
 
 <img width="500px" class="rounded float-start pe-4" src="../img/robot.webp">
 
+---
+
 ## I. Introduction
 
 Artificial Intelligence(AI) tools have transformed the world we live in today. Growing in popularity, the software can range from syntax checking to explaining abstract concepts like data structures and algorithms. Over the course of the last semester, I used these tools as scaffolding to learn new concepts, coding languages, and for assistance in understanding and debugging code. ICS314: Software Engineering, was one of the first classes that encouraged me to use AI tools for faster searching, debugging, and studying concepts. Especially helpful during timed coding exercises like WOD’s, I found these tools incredibly convenient with the caveat that I used them as a way to build my understanding of concepts, not as a shortcut for answers.
@@ -22,11 +24,23 @@ Artificial Intelligence(AI) tools have transformed the world we live in today. G
 
 ### 1. Experience WODs (e.g., E18)
 
-- For WODs without video solutions, I asked ChatGPT questions like:  
-  *“How do I use arrow functions in TypeScript?”*  
-  It helped explain concepts, which made me more confident going into the exercises.
-
-- **E08**: I failed my first attempt. Afterward, I used ChatGPT to debug and learned that my code worked but I hadn’t clicked the correct log window. This helped me understand both the technical and UI side of the exercise.
+**E03-E05**: These experiences required no technical work. Only making accounts and setting up for the semester.
+**E07a-E07b**: These were introductory bootcamps for Typescript and Javascript. I used ChatGPT here to explain concepts that were unclear. For example, I asked for reasons why I would use Typescript over Javascript.
+**E08**: Project Euler Problem 1: This WOD was fairly simple. What I found interesting was that I attempted the WOD the first time without any assistance, but failed to complete it in time. After my first attempt I watched the video solution and asked ChatGPT why my code was not working. What I found was that my code was correct the first time, however, I needed to click the tiny arrow in the top right corner to see the log. 
+**E09**: I did not use AI for this WOD. I simply felt I did not need it because I understood the demonstration video after my first attempt.
+**E10**: This was the first essay where I was allowed by an instructor to use AI tools. I found that ChatGPT was not helpful in the writing process. However, I wanted to make sure I was explaining concepts like variable declaration correctly. I asked ChatGPT questions about software engineering concepts to ensure the ideas in my essay were logically sound.
+**E11**: This essay was inherently difficult for me, because I had to find a real example on stack overflow that worked with my understanding of the material. While I came up with the ideas, I asked ChatGPT if they were correct. It responded with a corrected version. Which, in turn, led me to rewrite it in my words. I also used it as a thesaurus. 
+**E12**: The Jamba Juice 1 WODs were difficult for me the first time. Because of this I did it exactly as recommended in the “Standard WOD Caveats” section. Opting not to use AI, referencing the demonstration video instead.
+**E13**: I used ChatGPT to explain the code given in the demonstration video. However, it was not very helpful in my immediate performance as I completed the WOD four times with a DNF.
+**E14**: I used both ChatGPT and Github Copilot for this WOD, but could not finish in time. This time I began plugging my errors into the AI tools asking what they mean and how to fix them.
+**E18**: Going into this WOD I had very little understanding of “functional programming”, so I used ChatGPT and Copilot to help me understand  how to use arrow functions.
+**E19**: I used ChatGPT for this WOD. Since it was only a few lines of code, I wanted to make sure I did it correctly. After reflecting on it, I think the act of asking questions to ChatGPT enacted a sort of “rubber ducky theory”. In turn, helping me think critically about the functions I used.
+**E20**: I used Github Copilot for this WOD, because I could not get a working solution without it. It was helpful in 
+**E26-E27**: I remember using AI as a tool to explain the “Five Problems”. I did not understand them entirely from the article. Moreso, I used the Copilot extension to help me clear ESLint errors.
+**E29**: I used ChatGPT to help explain HTML and CSS concepts covered in the FreeCodeCamp experience.
+**E30-E32**: I was still getting the hang of HTML and CSS for this experience. If I had a question, I asked ChatGPT or Copilot so I would not have to ask a “smart question” on discord.
+**E34-E36**: For the WODs involving Bootstrap 5, I wanted to make sure I understood them well. I was more concerned about the in-class WODs, so I used AI if I ran into a problem, and made sure to understand the solution.
+**E41-E54**: For the rest of the WODs, I primarily used ChatGPT to help me with terminal commands I did not remember. Additionally, I would like to note how helpful they were with installing packages. Usually if my code had an error, it was due to an improper installation. 
 
 ---
 

@@ -4,7 +4,7 @@ type: essay
 title: "Artificial Code"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-23
-published: false
+published: true
 labels:
   - AI
   - ChatGPT
@@ -14,7 +14,7 @@ labels:
 
 ## I. Introduction
 
-Artificial Intelligence (AI) tools like ChatGPT, GitHub Copilot, and Bard have transformed how students learn and apply software engineering principles. These tools offer real-time assistance in understanding complex syntax, solving bugs, and generating example code. In ICS 314, we were encouraged to use these tools as part of the learning process, which helped me grow more confident and independent in my coding practice. I primarily used ChatGPT and GitHub Copilot throughout the semester, balancing convenience with careful reflection to ensure I understood the material.
+Artificial Intelligence(AI) tools have transformed the world we live in today. Growing in popularity, the software can range from syntax checking to explaining abstract concepts like data structures and algorithms. Over the course of the last semester, I used these tools as scaffolding to learn new concepts, coding languages, and for assistance in understanding and debugging code. ICS314: Software Engineering, was one of the first classes that encouraged me to use AI tools for faster searching, debugging, and studying concepts. Especially helpful during timed coding exercises like WOD’s, I found these tools incredibly convenient with the caveat that I used them as a way to build my understanding of concepts, not as a shortcut for answers.
 
 ---
 

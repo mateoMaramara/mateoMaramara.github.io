@@ -10,7 +10,7 @@ labels:
   - ChatGPT
 ---
 
-<img width="700px" class="rounded float-start pe-4" src="../img/robot.webp">
+<img width="600px" class="rounded float-start pe-4" src="../img/robot.webp">
 
 <div style="clear: both;"></div>
 ---

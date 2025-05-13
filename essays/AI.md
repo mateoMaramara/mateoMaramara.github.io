@@ -24,18 +24,19 @@ Artificial Intelligence(AI) tools have transformed the world we live in today. G
 
 ### 1. Experience WODs (e.g., E18)
 
-**E03-E05**: These experiences required no technical work. Only making accounts and setting up for the semester.
-**E07a-E07b**: These were introductory bootcamps for Typescript and Javascript. I used ChatGPT here to explain concepts that were unclear. For example, I asked for reasons why I would use Typescript over Javascript.
-**E08**: Project Euler Problem 1: This WOD was fairly simple. What I found interesting was that I attempted the WOD the first time without any assistance, but failed to complete it in time. After my first attempt I watched the video solution and asked ChatGPT why my code was not working. What I found was that my code was correct the first time, however, I needed to click the tiny arrow in the top right corner to see the log. 
-**E09**: I did not use AI for this WOD. I simply felt I did not need it because I understood the demonstration video after my first attempt.
-**E10**: This was the first essay where I was allowed by an instructor to use AI tools. I found that ChatGPT was not helpful in the writing process. However, I wanted to make sure I was explaining concepts like variable declaration correctly. I asked ChatGPT questions about software engineering concepts to ensure the ideas in my essay were logically sound.
-**E11**: This essay was inherently difficult for me, because I had to find a real example on stack overflow that worked with my understanding of the material. While I came up with the ideas, I asked ChatGPT if they were correct. It responded with a corrected version. Which, in turn, led me to rewrite it in my words. I also used it as a thesaurus. 
-**E12**: The Jamba Juice 1 WODs were difficult for me the first time. Because of this I did it exactly as recommended in the “Standard WOD Caveats” section. Opting not to use AI, referencing the demonstration video instead.
-**E13**: I used ChatGPT to explain the code given in the demonstration video. However, it was not very helpful in my immediate performance as I completed the WOD four times with a DNF.
-**E14**: I used both ChatGPT and Github Copilot for this WOD, but could not finish in time. This time I began plugging my errors into the AI tools asking what they mean and how to fix them.
-**E18**: Going into this WOD I had very little understanding of “functional programming”, so I used ChatGPT and Copilot to help me understand  how to use arrow functions.
-**E19**: I used ChatGPT for this WOD. Since it was only a few lines of code, I wanted to make sure I did it correctly. After reflecting on it, I think the act of asking questions to ChatGPT enacted a sort of “rubber ducky theory”. In turn, helping me think critically about the functions I used.
-**E20**: I used Github Copilot for this WOD, because I could not get a working solution without it. It was helpful in 
+- **E03-E05**: These experiences required no technical work. Only making accounts and setting up for the semester.
+- **E07a-E07b**: These were introductory bootcamps for Typescript and Javascript. I used ChatGPT here to explain concepts that were unclear. For example, I asked for reasons why I would use Typescript over Javascript.
+
+- **E08**: Project Euler Problem 1: This WOD was fairly simple. What I found interesting was that I attempted the WOD the first time without any assistance, but failed to complete it in time. After my first attempt I watched the video solution and asked ChatGPT why my code was not working. What I found was that my code was correct the first time, however, I needed to click the tiny arrow in the top right corner to see the log. 
+- **E09**: I did not use AI for this WOD. I simply felt I did not need it because I understood the demonstration video after my first attempt.
+- **E10**: This was the first essay where I was allowed by an instructor to use AI tools. I found that ChatGPT was not helpful in the writing process. However, I wanted to make sure I was explaining concepts like variable declaration correctly. I asked ChatGPT questions about software engineering concepts to ensure the ideas in my essay were logically sound.
+- **E11**: This essay was inherently difficult for me, because I had to find a real example on stack overflow that worked with my understanding of the material. While I came up with the ideas, I asked ChatGPT if they were correct. It responded with a corrected version. Which, in turn, led me to rewrite it in my words. I also used it as a thesaurus.
+- **E12**: The Jamba Juice 1 WODs were difficult for me the first time. Because of this I did it exactly as recommended in the “Standard WOD Caveats” section. Opting not to use AI, referencing the demonstration video instead.
+- **E13**: I used ChatGPT to explain the code given in the demonstration video. However, it was not very helpful in my immediate performance as I completed the WOD four times with a DNF.
+- **E14**: I used both ChatGPT and Github Copilot for this WOD, but could not finish in time. This time I began plugging my errors into the AI tools asking what they mean and how to fix them.
+- **E18**: Going into this WOD I had very little understanding of “functional programming”, so I used ChatGPT and Copilot to help me understand  how to use arrow functions.
+- **E19**: I used ChatGPT for this WOD. Since it was only a few lines of code, I wanted to make sure I did it correctly. After reflecting on it, I think the act of asking questions to ChatGPT enacted a sort of “rubber ducky theory”. In turn, helping me think critically about the functions I used.
+- **E20**: I used Github Copilot for this WOD, because I could not get a working solution without it. It was helpful in 
 **E26-E27**: I remember using AI as a tool to explain the “Five Problems”. I did not understand them entirely from the article. Moreso, I used the Copilot extension to help me clear ESLint errors.
 **E29**: I used ChatGPT to help explain HTML and CSS concepts covered in the FreeCodeCamp experience.
 **E30-E32**: I was still getting the hang of HTML and CSS for this experience. If I had a question, I asked ChatGPT or Copilot so I would not have to ask a “smart question” on discord.

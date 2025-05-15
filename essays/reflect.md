@@ -16,7 +16,7 @@ essayurl: https://yourdomain.github.io/essays/software-engineering-reflection.ht
 <img width="500px" class="img-fluid" src="../img/eng.png">
 
 
-# ICS 314: Software Engineering Reflection
+# Software Engineering I: Lessons Learned
 
 This class covered a lot more than just how to make websites. While the projects we worked on were mostly web-based, the structure behind how we wrote, managed, and collaborated on code came from real software engineering practices. I learned that good code isn’t just about what the program does—it's about how well it’s built, maintained, and documented over time. In this reflection, I’ll go over five concepts I learned in this course that go beyond just building web applications: Agile Project Management, Issue Driven Project Management, Configuration Management, Design Patterns, Functional Programming, and Ethics in Software Engineering.
 

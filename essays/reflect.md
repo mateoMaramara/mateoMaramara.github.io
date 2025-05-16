@@ -4,14 +4,14 @@ type: essay
 title: "Software Engineering I: Lessons Learned"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-15
-published: false
+published: true
 labels:
   - Software Engineering
   - Ethics
   - IDPM
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/eng.png">
+<img width="800px" class="rounded float-start pe-4" src="../img/eng.png">
 
 <div style="clear: both;"></div>
 ---

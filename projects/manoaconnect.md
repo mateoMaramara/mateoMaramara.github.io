@@ -4,7 +4,7 @@ type: project
 image: img/manoa.png
 title: "ManoaConnect"
 date: 2025
-published: true
+published: false
 labels:
   - React
   - Bootstrap 5

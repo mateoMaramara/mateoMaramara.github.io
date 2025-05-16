@@ -16,63 +16,24 @@ essayurl: https://yourdomain.github.io/essays/software-engineering-reflection.ht
 <img width="500px" class="img-fluid" src="../img/eng.png">
 
 
-# Software Engineering I: Lessons Learned
-
-This class covered a lot more than just how to make websites. While the projects we worked on were mostly web-based, the structure behind how we wrote, managed, and collaborated on code came from real software engineering practices. I learned that good code isn’t just about what the program does—it's about how well it’s built, maintained, and documented over time. In this reflection, I’ll go over five concepts I learned in this course that go beyond just building web applications: Agile Project Management, Issue Driven Project Management, Configuration Management, Design Patterns, Functional Programming, and Ethics in Software Engineering.
-
----
-
-## Agile Project Management
-
-Agile Project Management is an iterative and flexible approach to planning and building software. Instead of trying to complete everything all at once like in the traditional "waterfall" method, Agile encourages constant progress and reevaluation. Work is broken into smaller units called iterations or sprints. The team focuses on completing a few features at a time, reviews what’s been done, and then adapts based on feedback.
-
-Agile isn’t just a coding workflow—it’s a mindset. It promotes communication, flexibility, and frequent delivery of working software. I’ve already started thinking about how this style could apply to personal projects, group work, and even non-technical planning. It's all about taking things one meaningful step at a time.
-
+# Software Engineering I: A Reflective Essay
+Prior to taking Software Engineering I, I thought software engineering consisted of writing code that implements data structures and algorithms. After reflecting on this semester, I think software engineering encompasses a more diverse set of responsibilities. Namely, Issue Driven Project Management (IDPM), configuration management, and ethics, which all played roles vital to my success in the class, and within my final group project. Like any goal worth pursuing, there were challenges. However, I was lucky to have helpful teammates and instructors to navigate the obstacles in Software Engineering I.
 ---
 
 ## Issue Driven Project Management (IDPM)
-
-A specific version of Agile we used in ICS 314 was **Issue Driven Project Management (IDPM)**. Instead of managing work through abstract lists or emails, we used GitHub issues to track everything. Each issue represented a single unit of work—something that could be completed in a few hours. Issues were labeled, assigned to specific people, and linked to project milestones.
-
-What made IDPM work so well was its structure. Everyone knew what they were responsible for, and it was easy to measure progress. This system helped us avoid vague goals or overlapping responsibilities. It also made it easier to collaborate asynchronously because all the task information was in one place. Even outside of software development, I could see IDPM being used for things like organizing an event, managing a content calendar, or planning research tasks—anything where small tasks build into a larger goal.
-
+Issue Driven Project Management (IDPM) helped my group and I stay organized during our final project, manoaconnecttb. Having broken the development down into three milestones, we assigned issues for each task that needed to be completed. Additionally, with each issue that was assigned, we estimated how long it would take to implement and tracked the actual amount of time it took to complete. At first, tracking everything was overwhelming. However, once we got the momentum going with the first few issues it became much easier.
+Ultimately, IDPM guidelines made the entire process of building manoaconnecttb easier because of the planning, coordination, and tracking that took place within my team. Having to think through each issue and estimate the length of time to complete helped me consider the potential subtasks, dependencies, and potential for bugs within each issue. Most importantly, IDPM made working on the project with my team a much smoother process. Planning which components that needed to be worked on, and assigning the task to a single group member helped us avoid merge conflicts and stepping on each other's toes in general. By the final milestone, my team and I were much better at predicting what was feasible with the amount of time we had to complete it.
 ---
-
 ## Configuration Management
-
-Before this class, I didn’t know how important Git was. I thought of it as just a backup system. But in this course, I learned that Configuration Management is all about tracking and managing changes to code so that everything stays consistent and you don’t lose work. We used GitHub for version control, which let us branch off our own features, submit pull requests, and merge everything together safely.
-
-This was super helpful during group work. We could all work on different parts of the code at the same time without stepping on each other's toes. Now I get why version control is so essential for team-based development. Outside of class, I can see this being important for any kind of shared document or system—anything where multiple people are making changes.
-
----
-
-## Design Patterns
-
-Design Patterns are basically templates or common solutions for recurring problems in code. Instead of inventing a new solution every time, you can follow a proven strategy that’s been used before. One example is the Observer Pattern, which we sort of used in React by having components update when state changed.
-
-Even though we didn’t memorize every design pattern, I started noticing when and why people use them. Understanding these patterns makes it easier to work on big projects and read someone else’s code. They also help make your own code easier to update or reuse. Whether I’m working in JavaScript or a completely different language later on, the logic behind these patterns still applies.
-
----
-
-## Functional Programming
-
-Functional Programming was something I didn’t know much about until this class. We used functions a lot in JavaScript, but this course showed me how powerful it is to think about data and actions in terms of pure functions. A pure function doesn’t change anything outside of itself—it just takes input and returns output.
-
-Using this approach helped me write cleaner, more predictable code. I especially saw this in the utility functions we wrote during WODs and in the way we handled state in components. It made debugging easier, too, because I didn’t have to worry about weird side effects. I think functional programming is one of those concepts that I’ll keep seeing again and again no matter what language I use.
+With a total of six team members working on manoaconnecttb, version control was crucial. Github made configuration management easier, but that didn’t mean we didn’t face any challenges. Using different branches helped us stay organized. However, ESLint errors and merge conflicts created roadblocks in our vercel database. After a few database errors that resulted in setbacks for all team members, we began to take configuration more seriously. Consequently, we were much more strict about enforcing the rule that a team member who didn’t create the pull request must check it for errors before merging to the main branch. Additionally, Githubs visibility of issues, commits, and pull requests made it easier to retrace our steps and debug issues when they did come up. Nonetheless, Github was a reliable platform that gave us no technical problems and helped us work through our project in the most organized way that we could.
 
 ---
 
 ## Ethics in Software Engineering
-
-One of the most unexpected topics we covered was ethics. I always thought programming was just about building things, but this course made me realize that what we build and how we build it actually matters. For example, we talked about how certain features could be misused—like tracking users without their knowledge, or writing code that favors one group over another.
-
-It made me think more critically about my responsibility as a developer. Even something as small as how accessible a website is can make a difference. I realized that writing ethical code isn’t a bonus—it’s part of doing the job right. I appreciated that this class included this topic because it reminded me that programming affects real people.
-
+Despite the ethics module being short and unexpected, it made me think about the pragmatic ethical considerations that should be taken into account when working in the software engineering field. I think that is one of the reasons having principles established within a company's ethical guidelines is so important. Doing this will create a more accessible criteria when assessing team members for promotions. Additionally, by assessing factors outside of technical performance, we can have a broader, greater understanding of what makes a team member a good manager or engineer. Moreover, companies' ethical policies are only a starting point. As software engineers, we must have personal codes of ethics so we can make decisions for ourselves and our users with integrity. While ethical decisions in other fields may have more oversight, software engineers have a responsibility to start conversations around ethical considerations when deploying code that will directly affect users. Since software is scalable, these conversations can potentially have an impact on millions of people.
+---
+## Final Reflection
+Software Engineering I was as challenging as it was rewarding. It gave me the tools to start engineering websites, discuss ethics, work with my team using IDPM guidelines, and the structure to practice functional programming on my own. However, I could not have fully absorbed any of these concepts without hours of practice alone. Despite the vast amount of knowledge gained during this course, my greatest takeaway is that the amount of work put into a project will usually determine the kind of result one gets. Ultimately, whether I am working on a startup, personal project, or within a team like in manoaconnecttb, I will carry this takeaway with me whilst always considering my instructors, teammates, and potential users.
 ---
 
-## Final Thoughts
-
-ICS 314 didn’t just teach me how to code a web app—it taught me how to think like a software engineer. Concepts like Agile, version control, design patterns, and ethics aren’t limited to web development; they’re part of almost every coding job out there. The course gave me a good balance of hands-on practice and real-world structure. I still have a lot to learn, but now I feel like I have a stronger foundation and a better idea of how to approach future projects—whether they involve websites or not.
-
----
 

@@ -13,12 +13,12 @@ summary: "Manoa Connect is a centralized platform for students at the University
 ---
 <img width="600px" class="rounded float-start pe-4" src="../img/connect.png">
 
-ManoaConnect
+### ManoaConnect
 
-My Contribution: Database Design, Integration, and Club Functionality
+### My Contribution: Database Design, Integration, and Club Functionality
 My main role in the ManoaConnect project was designing and managing the database, ensuring that all club-related data was modeled correctly, stored securely, and retrieved efficiently. Since I was the only team member with a paid Vercel account, I was also the only one who could manage the hosted PostgreSQL database used in development and deployment. This made me responsible for backend schema design, database seeding, and live data connectivity.
 
-1. Prisma Schema Design
+### Prisma Schema Design
 I built the foundational schema for our app using schema.prisma. This file defined our models—like Club, User, and Post—and handled relations and constraints. For example, here’s the Club model I defined:
 model Club {
   id          Int      @id @default(autoincrement())
@@ -96,4 +96,4 @@ ManoaConnect gave me the opportunity to lead critical backend development and be
 
 
 ---
-[URL to repository](http://github.com/mateoMaramara/heartRateCalculator)
+[URL to repository](https://manoaconnecttb.github.io/)

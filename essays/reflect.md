@@ -1,16 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "Software Engineering I: A Reflective Essay"
+title: "Artificial Code"
 # All dates must be YYYY-MM-DD format!
-date: 2025-05-15
+date: 2025-05-12
 published: true
 labels:
   - AI
   - ChatGPT
 ---
 
-<img width="500px" class="img-fluid" src="../img/eng.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/eng.png">
 
 <div style="clear: both;"></div>
 ---

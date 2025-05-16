@@ -3,11 +3,12 @@ layout: essay
 type: essay
 title: "Software Engineering I: Lessons Learned"
 # All dates must be YYYY-MM-DD format!
-date: 2025-05-12
+date: 2025-05-15
 published: false
 labels:
-  - AI
-  - ChatGPT
+  - Software Engineering
+  - Ethics
+  - IDPM
 ---
 
 <img width="600px" class="rounded float-start pe-4" src="../img/eng.png">

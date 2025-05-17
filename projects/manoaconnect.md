@@ -66,8 +66,10 @@ This strategy allowed us to pass club data between pages without needing to re-f
 
 ### Logo Design Using AI
 
-
 In addition to backend responsibilities, I also contributed to the branding of the project. Using ChatGPT, I generated multiple logo concepts for ManoaConnect. After reviewing several options, the team chose one of the AI-generated designs as the final product, which we used across our site for consistent visual identity.
+
+<img width="800px" class="rounded float-start pe-4" src="../img/mc.png">
+
 
 ### What I Learned
 Through this project, I gained deep, practical experience in full-stack web development with a strong focus on the backend and deployment pipeline. Here’s what stood out most:

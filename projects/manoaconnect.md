@@ -53,4 +53,5 @@ ManoaConnect was a learning experience. During the project I got the opportunity
 
 ---
 [More information on ManoaConnect](https://manoaconnecttb.github.io/)
-[Link to deployed ManoaConnect website](https://manoa-connect.vercel.app/)
+<div style="clear: both;"></div>
+[Link to ManoaConnect website](https://manoa-connect.vercel.app/)

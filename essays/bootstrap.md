@@ -11,6 +11,7 @@ labels:
 <img width="400px" class="rounded float-start pe-4" src="../img/boot.jpeg">
 <div style="clear: both;"></div>
 
+## Overview
 As Software Engineers, we often aspire to make user friendly, beautifully-designed websites, in a relatively short period of time. While one option would be to hack together a site with raw HTML and CSS, it is simply not the most efficient way to build. This is especially true when debugging for different browsers or screen sizes. Bootstrap 5 is a UI framework that offers a solution to this problem. When I first started with Bootstrap 5 I thought it was going to be similar to learning a new language. But after a few trial and error web development sessions I have come to the conclusion that it is worth it, given the few challenges it poses with the relatively large benefit.
 
 ## Advantages

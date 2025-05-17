@@ -9,7 +9,7 @@ labels:
   - React
   - Bootstrap 5
   - Next.js
-summary: "Manoa Connect is a centralized platform for students at the University of Hawai‘i at Mānoa to explore clubs, connect with communities, and manage their campus involvement. The Club Hub system allows students to browse club profiles, view posts, and use dashboards to manage participation. Club leaders can create or manage club entries, while admins can remove inappropriate content."
+summary: "Manoa Connect is a centralized platform for students at the University of Hawai‘i at Mānoa to explore clubs, connect with communities, and manage their campus involvement."
 ---
 <img width="600px" class="rounded float-start pe-4" src="../img/connect.png">
 

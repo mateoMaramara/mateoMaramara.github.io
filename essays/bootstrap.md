@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Running in Boot's is Not So Bad"
+title: "Running in Boots!"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
 published: true

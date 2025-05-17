@@ -20,23 +20,24 @@ My primary role in the ManoaConnect project was designing and managing the datab
 
 ---
 
-### Prisma Schema
-I built the foundational schema for our app using schema.prisma. This file defined models like Club, User, and Post. Below is an example of Club and Post:
+### Reading and Writing to the Database
+I built the foundational schema for our app using schema.prisma. This file defined models like Club, User, and Post. Additionally, I implemented full functionality for Clubs using Prisma and Next.js API routes. This allowed users to create new clubs and remove old clubs. Below is an example of Club and Post:
 
 <div style="clear: both;"></div>
 
-<img width="300px" class="rounded float-start pe-4" src="../img/schema.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/schema.png">
 
 <div style="clear: both;"></div>
 
 
 ### Read/Write Operations
-I implemented full functionality for Clubs using Prisma and Next.js API routes. This allowed users to create new clubs and remove old clubs.
+
 
 ---
 
-### Logo Design Using AI
+### Design
 
+While implementing functions and migrating data was an incredible learning experience, design was my favorite part of the final project. Using ChatGPT, I generated several mockup ideas for the ManoaConnect logo. Ultimately, we decided on usng green and white for the colors. 
 In addition to backend responsibilities, I also contributed to the branding of the project. Using ChatGPT, I generated multiple logo concepts for ManoaConnect. After reviewing several options, the team chose one of the AI-generated designs as the final product, which we used across our site for consistent visual identity.
 
 <div style="clear: both;"></div>

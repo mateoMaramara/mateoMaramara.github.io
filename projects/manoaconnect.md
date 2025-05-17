@@ -11,13 +11,9 @@ labels:
   - Next.js
 summary: "Manoa Connect is a digital platform that connects UH Mānoa students with registered independent organizations based on their interests and academic background."
 ---
-<img width="600px" class="rounded float-start pe-4" src="../img/connect.png">
+<img width="800px" class="rounded float-start pe-4" src="../img/connect.png">
 
 <div style="clear: both;"></div>
-
-### ManoaConnect
-Manoa Connect is a digital platform that connects UH Mānoa students with registered independent organizations based on their interests and academic background. It 
-
 
 ### My Contribution:
 My primary role in the ManoaConnect project was designing and managing the database. The role entailed ensuring all of the club and user data could read and write to the vercel database. Since I was the only team member with a Vercel pro account, I had to make sure all of the user data was correctly writing to the database. This made me responsible for backend schema design, database seeding, migrations, and live data connectivity.

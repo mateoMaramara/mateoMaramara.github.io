@@ -29,16 +29,11 @@ I built the foundational schema for our app using schema.prisma. This file defin
 
 <div style="clear: both;"></div>
 
-
-### Read/Write Operations
-
-
 ---
 
 ### Design
 
-While implementing functions and migrating data was an incredible learning experience, design was my favorite part of the final project. Using ChatGPT, I generated several mockup ideas for the ManoaConnect logo. Ultimately, we decided on usng green and white for the colors. 
-In addition to backend responsibilities, I also contributed to the branding of the project. Using ChatGPT, I generated multiple logo concepts for ManoaConnect. After reviewing several options, the team chose one of the AI-generated designs as the final product, which we used across our site for consistent visual identity.
+In addition to ensuring ManoaConnect could read and write new users, clubs, and posts to the database, I designed different aspects of the website. While implementing functions and migrating data was an incredible learning experience, design was my favorite part of the final project. Using ChatGPT, I generated several mockup ideas for the ManoaConnect logo. Ultimately, we decided on usng green and white for the colors. All of the logos, colors, and side bar functions were consistant across our site. Below is a screenshot of the posts page. You can see our logo in the top right, and the sidebar expands with links on the left.
 
 <div style="clear: both;"></div>
 
@@ -47,27 +42,15 @@ In addition to backend responsibilities, I also contributed to the branding of t
 <div style="clear: both;"></div>
 
 ### What I Learned
-Through this project, I gained deep, practical experience in full-stack web development with a strong focus on the backend and deployment pipeline. Here’s what stood out most:
-Database Design with Prisma: I learned how to define and enforce structured data models using schema.prisma, connect them to the frontend, and use them safely in production.
 
-
-Seeding and Environment Management: I gained hands-on experience with writing seed.ts scripts and configuring .env and development JSON files for remote PostgreSQL databases hosted on Vercel.
-
-
-Backend Integration with React & Next.js: I bridged backend and frontend logic with well-defined API routes, enabling smooth form submission and dynamic content loading.
-
-
-Query Parameters for Efficiency: I saw the benefits of using query strings for state transfer across pages, saving time and database bandwidth.
-
-
-AI-assisted Branding: I creatively applied ChatGPT for logo design, giving our project a clean and cohesive identity.
-
+Throughout the course of this project, there were victories and setbacks. Learning the different aspects that go into full stack development and backend deployment gave me a much broader perspective on web development. The biggest lessons I learned during the project were to stay organized and communicate when working with a team. While I was incredibly lucky to have a team of good communicators, every challenge we faced was due to a communication error. When six group members work on a small list of components, ensuring there is no overlap when assigning issues is crucial. Overlooking such a critical aspect of software development could lead to merge conflicts or database errors. Additionally, when we did run into errors we were able to recover quickly because we were organized with our issue tracking. This level of organization helped us retrace our steps and see where errors occured.
 
 
 ### Conclusion
 
-ManoaConnect gave me the opportunity to lead critical backend development and become comfortable working in a full production environment. I learned how to keep a team project stable by owning a key part of the stack, and I became more confident handling real-world database tasks that extend beyond the classroom. This experience has made me more prepared for industry-level backend development and has sharpened my understanding of full-stack architecture.
+ManoaConnect was a learning experience. During the project I got the opportunity so work on a full stack web application. More importantly, I got to practice doing so with a team. In my opinion, the real lessons did not come from database tasks or design. The majority of the lessons I learned can all be traced back to my ability to communicate with my team. After extensive coding, communication, organization, and command lookups, I believe this project prepared me for the challenges that I will face in industry level development. While much of the project was tedious, it was also fun designing the website and working through problems with my team.
 
 
 ---
-[URL to repository](https://manoaconnecttb.github.io/)
+[More information on ManoaConnect](https://manoaconnecttb.github.io/)
+[Link to deployed ManoaConnect website](https://manoa-connect.vercel.app/)

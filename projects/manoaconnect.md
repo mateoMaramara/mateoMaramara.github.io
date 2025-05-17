@@ -9,21 +9,24 @@ labels:
   - React
   - Bootstrap 5
   - Next.js
-summary: "Manoa Connect is a centralized platform for students at the University of Hawai‘i at Mānoa to explore clubs, connect with communities, and manage their campus involvement."
+summary: "Manoa Connect is a digital platform that connects UH Mānoa students with registered independent organizations based on their interests and academic background."
 ---
 <img width="600px" class="rounded float-start pe-4" src="../img/connect.png">
 
 <div style="clear: both;"></div>
 
 ### ManoaConnect
+Manoa Connect is a digital platform that connects UH Mānoa students with registered independent organizations based on their interests and academic background. It 
 
-### My Contribution: Database Design, Integration, and Club Functionality
-My main role in the ManoaConnect project was designing and managing the database, ensuring that all club-related data was modeled correctly, stored securely, and retrieved efficiently. Since I was the only team member with a paid Vercel account, I was also the only one who could manage the hosted PostgreSQL database used in development and deployment. This made me responsible for backend schema design, database seeding, and live data connectivity.
+
+### My Contribution:
+My primary role in the ManoaConnect project was designing and managing the database. The role entailed ensuring all of the club and user data could read and write to the vercel database. Since I was the only team member with a Vercel pro account, I had to make sure all of the user data was correctly writing to the database. This made me responsible for backend schema design, database seeding, migrations, and live data connectivity.
 
 ---
 
-### Prisma Schema Design
+### Prisma Schema
 I built the foundational schema for our app using schema.prisma. This file defined our models—like Club, User, and Post—and handled relations and constraints. For example, here’s the Club model I defined:
+
 model Club {
   id          Int      @id @default(autoincrement())
   name        String
@@ -34,26 +37,13 @@ model Club {
   createdAt   DateTime @default(now())
 }
 
-This schema made it possible for us to structure and enforce how data flows through the app, and how it's queried and mutated via Prisma.
 
-### Seeding and Configuring Development Environments
-I created the seed.ts script to populate the database with example entries for clubs, helping our team test and demo the app with real-looking data. I also managed settings.development.json and other configuration files to ensure our local and deployed apps were properly connected to the remote PostgreSQL instance hosted by Vercel.
-
-### Read/Write Club Operations
+### Read/Write Operations
 I implemented full CRUD functionality for Clubs using Prisma and Next.js API routes. This allowed users to:
-Create a new club with metadata
+create new clubs and remove old clubs.
 
 
-Read from the club list and individual profiles
-
-
-Edit club information
-
-
-Delete entries when necessary
-
-
-Here’s an example of how I created a new club on the backend:
+Here’s an example of how I created a new club:
 export async function makeClub(club: {
   name: string;
   description: string;
@@ -63,8 +53,6 @@ export async function makeClub(club: {
 }) {
   await prisma.club.create({ data: { ...club } });
 }
-
-This function was linked to our Create Club form and handled the entire backend logic for club creation.
 
 ---
 
@@ -79,6 +67,8 @@ This strategy allowed us to pass club data between pages without needing to re-f
 ---
 
 ### Logo Design Using AI
+
+
 In addition to backend responsibilities, I also contributed to the branding of the project. Using ChatGPT, I generated multiple logo concepts for ManoaConnect. After reviewing several options, the team chose one of the AI-generated designs as the final product, which we used across our site for consistent visual identity.
 
 ### What I Learned
@@ -100,6 +90,7 @@ AI-assisted Branding: I creatively applied ChatGPT for logo design, giving our p
 
 
 ### Conclusion
+
 ManoaConnect gave me the opportunity to lead critical backend development and become comfortable working in a full production environment. I learned how to keep a team project stable by owning a key part of the stack, and I became more confident handling real-world database tasks that extend beyond the classroom. This experience has made me more prepared for industry-level backend development and has sharpened my understanding of full-stack architecture.
 
 

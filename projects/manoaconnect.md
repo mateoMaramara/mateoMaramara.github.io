@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/manoa.png
+image: img/conn.png
 title: "ManoaConnect"
 date: 2025
 published: false

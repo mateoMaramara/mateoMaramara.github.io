@@ -11,6 +11,9 @@ labels:
 
 <img width="500px" class="rounded float-start pe-4" src="../img/design.png">
 
+<div style="clear: both;"></div>
+
+
 Design patterns can help software engineers write scalable code that is easy to maintain, understand, and implement. But, what are design patterns really? Well, as a certified “gym rat”, I like to look at them the same way I see my training regimen; systematic, but flexible. I want my design patterns to work just like my workouts; targeting specific goals, efficient, and always built for growth.
 
 As it is typical for most gym goers, I have a plan of execution before entering my IDE, or, “Iron Development Environment” as I like to call it. Because going to the gym with no plan is a recipe for disaster and can lead to poor results or injury. Similarly, design patterns follow tested and reliable templates that remain flexible for maximum efficiency. Flexibility is especially important. Since, I may not want to wait for the next available bench press during the 6pm rush hour, I might use a machine that works the same muscle group. In the case of my final group project for software engineering I, I might not use the exact same implementation, but I will apply the same principles to get the same results. In short, design patterns are the same. They are just structured ways to solve routine problems.

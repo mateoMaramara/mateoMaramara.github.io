@@ -14,6 +14,8 @@ This is a program in C I made during my ICS 212 class. The purpose of the assign
 
 One key concept that this assignment was good practice for was the and, and or operators. Prior to this assignment I had a strong fundamental knowledge of for and while loops, but this project really solidified the and, and or operators into my memory. This project was also fun because I got to personalize it to my favorite food. To me, it is a good example of how programming does not always have to be serious, and it can be used to practice career skills and have fun while doing so. The expected output can be seen below, and the URL to the program can be seen below.
 
+<div style="clear: both;"></div>
+
 ---
  
 Expected Output:

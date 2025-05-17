@@ -4,7 +4,7 @@ type: essay
 title: "Beauty is Only Application Layer Deep"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-13
-published: true
+published: false
 labels:
   - TypeScript
 ---

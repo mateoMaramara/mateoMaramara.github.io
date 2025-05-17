@@ -21,46 +21,17 @@ My primary role in the ManoaConnect project was designing and managing the datab
 ---
 
 ### Prisma Schema
-I built the foundational schema for our app using schema.prisma. This file defined our models—like Club, User, and Post—and handled relations and constraints. For example, here’s the Club model I defined:
+I built the foundational schema for our app using schema.prisma. This file defined models like Club, User, and Post. Below is an example of Club and Post:
 
-<img width="800px" class="rounded float-start pe-4" src="../img/schema.png">
+<div style="clear: both;"></div>
 
-model Club {
-  id          Int      @id @default(autoincrement())
-  name        String
-  description String
-  creator     String
-  email       String
-  image       String
-  createdAt   DateTime @default(now())
-}
+<img width="300px" class="rounded float-start pe-4" src="../img/schema.png">
+
+<div style="clear: both;"></div>
 
 
 ### Read/Write Operations
-I implemented full CRUD functionality for Clubs using Prisma and Next.js API routes. This allowed users to:
-create new clubs and remove old clubs.
-
-
-Here’s an example of how I created a new club:
-export async function makeClub(club: {
-  name: string;
-  description: string;
-  creator: string;
-  email: string;
-  image: string;
-}) {
-  await prisma.club.create({ data: { ...club } });
-}
-
----
-
-### Query Parameters and Navigation
-To keep performance high and eliminate redundant API calls, I coordinated with frontend developers to use query parameters instead of repeated backend requests. This allowed data like club name, email, and image URL to be passed via the URL using useSearchParams() and the router.push() method.
-Example:
-const searchParams = useSearchParams();
-const name = searchParams.get('name') || 'Unnamed Club';
-
-This strategy allowed us to pass club data between pages without needing to re-fetch it, improving load time and the overall user experience.
+I implemented full functionality for Clubs using Prisma and Next.js API routes. This allowed users to create new clubs and remove old clubs.
 
 ---
 
@@ -68,8 +39,11 @@ This strategy allowed us to pass club data between pages without needing to re-f
 
 In addition to backend responsibilities, I also contributed to the branding of the project. Using ChatGPT, I generated multiple logo concepts for ManoaConnect. After reviewing several options, the team chose one of the AI-generated designs as the final product, which we used across our site for consistent visual identity.
 
+<div style="clear: both;"></div>
+
 <img width="800px" class="rounded float-start pe-4" src="../img/mc.png">
 
+<div style="clear: both;"></div>
 
 ### What I Learned
 Through this project, I gained deep, practical experience in full-stack web development with a strong focus on the backend and deployment pipeline. Here’s what stood out most:

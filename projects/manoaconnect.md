@@ -23,6 +23,8 @@ My primary role in the ManoaConnect project was designing and managing the datab
 ### Prisma Schema
 I built the foundational schema for our app using schema.prisma. This file defined our models—like Club, User, and Post—and handled relations and constraints. For example, here’s the Club model I defined:
 
+<img width="800px" class="rounded float-start pe-4" src="../img/schema.png">
+
 model Club {
   id          Int      @id @default(autoincrement())
   name        String

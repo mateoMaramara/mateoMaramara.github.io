@@ -33,7 +33,7 @@ I built the foundational schema for our app using schema.prisma. This file defin
 
 ### Design
 
-In addition to ensuring ManoaConnect could read and write new users, clubs, and posts to the database, I designed different aspects of the website. While implementing functions and migrating data was an incredible learning experience, design was my favorite part of the final project. Using ChatGPT, I generated several mockup ideas for the ManoaConnect logo. Ultimately, we decided on using green and white for the colors. All of the logos, colors, and side bar functions were consistant across our site. Below is a screenshot of the posts page. You can see our logo in the top right, and the sidebar expands with links on the left.
+In addition to ensuring ManoaConnect could read and write new users, clubs, and posts to the database, I designed different aspects of the website. While implementing functions and migrating data was an incredible learning experience, design was my favorite part of the final project. Using ChatGPT, I generated several mockup ideas for the ManoaConnect logo. Ultimately, we decided on using green and white for the colors. All of the logos, colors, and side bar functions were consistant across our site. Below is a screenshot of the posts page. You can see our logo in the top left and center of the navbar.
 
 <div style="clear: both;"></div>
 

@@ -4,7 +4,7 @@ type: essay
 title: "Design Patterns and Deadlifts"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-23
-published: false
+published: true
 labels:
   - Design
 ---

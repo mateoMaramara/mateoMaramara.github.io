@@ -4,7 +4,7 @@ type: project
 image: img/ensaymada-3.jpg
 title: "Kapuna Project"
 date: 2024
-published: true
+published: false
 labels:
   - Health and Wellness
 summary: "A food science project I made to showcase the cultural, personal, and nutritional significance of ensaymada"

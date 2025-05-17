@@ -4,7 +4,7 @@ type: essay
 title: "There’s No Such Thing as a Stupid Question"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
-published: true
+published: false
 labels:
   - TypeScript
 ---
